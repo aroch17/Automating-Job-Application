@@ -1,3 +1,3 @@
 # Automating-Job-Application
-A web crawler to search and apply for jobs
-Built using Selenium
+- A web crawler to search and apply for jobs
+- Built using Selenium
